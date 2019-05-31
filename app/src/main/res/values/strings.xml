@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">图瑞练字演示版</string>
+    <string name="action_settings">设置</string>
+    <string name="action_connect">连接蓝牙笔</string>
+    <string name="action_disconnect">断开蓝牙笔</string>
+    <string name="state_connected">已连接</string>
+    <string name="state_connecting">连接中</string>
+    <string name="state_disconnected">未连接</string>
+    <string name="state_running">运行中</string>
+    <string name="state_stoped">已停止</string>
+    <string name="action_clear">清空</string>
+    <string name="title_clear">清空白板内容</string>
+    <string name="device">Device:</string>
+    <string name="no_device">&lt;Select a device&gt;</string>
+    <string name="select_device">Select a device</string>
+    <string name="scanning">Scanning for devices...</string>
+    <string name="no_ble_devices">No LE devices found.</string>
+    <string name="ready">Ready</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="connect">Connect</string>
+    <string name="unpair">unpair</string>
+    <string name="pair">pair</string>
+    <string name="paired">paired</string>
+    <string name="ble_not_supported">Bluetooth Low Energy not supported</string>
+    <string name="scan">扫描</string>
+    <string name="cancel">取消</string>
+</resources>
